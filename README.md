@@ -1,200 +1,213 @@
-# 👋 Olá, eu sou um Desenvolvedor e Estudante de Redes focado em construir uma base sólida em Programação, Sistemas e Fundamentos de Rede
+# 👋 Hello, I’m a Developer and Network Student focused on building a strong foundation in Programming, Systems, and Networking Fundamentals
 
-Estou a recomeçar o meu GitHub do zero.  
-2025 será o meu ano de reconstrução completa através de **projetos práticos, evolutivos e documentados**.
+I am restarting my GitHub from scratch.  
+2025 will be my year of complete reconstruction through **practical, progressive, and well-documented projects**.
 
-Este perfil vai mostrar a minha jornada real de aprendizagem e aplicação.
-
----
-
-# 🗓️ Timeline de Projetos — Ano 2025
-
-A seguir está o meu plano mensal de desenvolvimento e redes.  
-Cada mês tem objetivos claros e projetos que vão mostrando evolução.
+This profile will show my real learning journey and hands-on evolution.
 
 ---
 
-# 📅 **JANEIRO 2025 — Fundamentos e Recomeço**
-### 🔹 Projetos de Desenvolvimento
-- Tools-C v1:  
-  - calculadora simples  
-  - contador de palavras  
-  - leitor/escritor de ficheiros  
+# 🗓️ Project Timeline — Year 2025
 
-### 🔹 Mini Projetos de Redes
-- Subnet Practice Pack  
-  - exercícios de subnetting documentados  
-  - tabela de máscaras  
-  - scripts para calcular sub-redes  
+Below is my monthly roadmap for development and networking.  
+Each month has clear goals and projects that demonstrate growth.
 
 ---
 
-# 📅 **FEVEREIRO 2025 — Consolidação de Base**
-### 🔹 Desenvolvimento
-- Tools-C v2:  
-  - gerador de senhas  
-  - mini agenda em ficheiro  
-- Estruturas de Dados — Listas Ligadas (DSA-C)
+# 📅 **JANUARY 2025 — Fundamentals & Fresh Start**
 
-### 🔹 Redes
-- VLAN Lab (Packet Tracer)  
-  - criação de VLANs  
-  - trunk, access, inter-VLAN routing  
-- Documentação do laboratório em GitHub
+### 🔹 Development Projects
+- Tools-C v1:
+  - simple calculator  
+  - word counter  
+  - file reader/writer  
 
----
-
-# 📅 **MARÇO 2025 — Algoritmos + Routing**
-### 🔹 Desenvolvimento
-- DSA-C:  
-  - pilhas  
-  - filas  
-- CLI-App:  
-  - gestor de tarefas em terminal (com leitura e gravação em ficheiros)
-
-### 🔹 Redes
-- OSPF Mini Lab  
-  - configuração de roteamento dinâmico  
-  - análise com pings e rotas  
-- Introdução a scripts Python para automação de configuração
+### 🔹 Mini Networking Projects
+- Subnet Practice Pack:
+  - documented subnetting exercises  
+  - mask reference tables  
+  - scripts to calculate subnets  
 
 ---
 
-# 📅 **ABRIL 2025 — Projetos Maiores**
-### 🔹 Desenvolvimento
-- C-Projects v1:  
-  - sistema simples de login (hashing básico)  
-  - analisador de logs  
+# 📅 **FEBRUARY 2025 — Foundation Consolidation**
 
-### 🔹 Redes
-- Packet Capture Basics  
-  - captura de pacotes com Wireshark  
-  - análise de cabeçalhos  
-- Documentação: “Entender TCP/UDP na prática”
+### 🔹 Development
+- Tools-C v2:
+  - password generator  
+  - simple file-based notebook  
+- Data Structures — Linked Lists (DSA-C)
+
+### 🔹 Networking
+- VLAN Lab (Packet Tracer):
+  - VLAN creation  
+  - trunk & access configuration  
+  - inter-VLAN routing  
+- Full lab documentation on GitHub  
 
 ---
 
-# 📅 **MAIO 2025 — Infraestrutura Básica**
-### 🔹 Desenvolvimento
-- DSA-C:  
-  - árvores binárias  
-  - ordenação (bubble, insertion, quicksort)  
+# 📅 **MARCH 2025 — Algorithms + Routing**
 
-### 🔹 Redes
+### 🔹 Development
+- DSA-C:
+  - stacks  
+  - queues  
+- CLI-App:
+  - terminal task manager (with file persistence)
+
+### 🔹 Networking
+- OSPF Mini Lab:
+  - dynamic routing configuration  
+  - route testing and ping analysis  
+- Introduction to Python scripts for configuration automation  
+
+---
+
+# 📅 **APRIL 2025 — Larger Projects**
+
+### 🔹 Development
+- C-Projects v1:
+  - simple login system (basic hashing)  
+  - log analyzer  
+
+### 🔹 Networking
+- Packet Capture Basics:
+  - capturing packets with Wireshark  
+  - header analysis  
+- Documentation: “Understanding TCP/UDP in Practice”  
+
+---
+
+# 📅 **MAY 2025 — Basic Infrastructure**
+
+### 🔹 Development
+- DSA-C:
+  - binary trees  
+  - sorting algorithms (bubble, insertion, quicksort)
+
+### 🔹 Networking
 - DHCP & NAT Lab  
-- Topologia com 2 routers e 3 redes  
-- Scripts Python para gerar configurações automaticamente
+- Topology with 2 routers + 3 networks  
+- Python scripts to auto-generate Cisco configurations  
 
 ---
 
-# 📅 **JUNHO 2025 — Projeto 100% Prático**
-### 🔹 Desenvolvimento
-- CLI-App:  
-  - sistema de inventário  
-  - menu completo  
-  - persistência em ficheiros  
+# 📅 **JUNE 2025 — 100% Practical Project**
 
-### 🔹 Redes
-- Mini-LAN Home Lab  
-  - switch + VLANs + PC’s virtuais  
-  - documentação completa no GitHub  
+### 🔹 Development
+- CLI-App:
+  - inventory system  
+  - full menu  
+  - file persistence  
 
----
-
-# 📅 **JULHO 2025 — Fundamentos de Segurança**
-### 🔹 Desenvolvimento
-- Tools-C v3:  
-  - verificador de integridade de ficheiros (hash)  
-  - limpador de logs  
-
-### 🔹 Redes
-- ACL Mini Lab  
-- Criar e testar listas de acesso  
-- Documentar cenários: permitir/bloquear tráfego
+### 🔹 Networking
+- Mini Home LAN Lab:
+  - switch + VLANs + virtual PCs  
+  - full documentation on GitHub  
 
 ---
 
-# 📅 **AGOSTO 2025 — Projeto Intermédio de Redes**
-### 🔹 Redes
-- Topologia completa (Routing + Switching)  
-- VLANs, OSPF, DHCP, NAT  
-- Troubleshooting documentado  
+# 📅 **JULY 2025 — Security Fundamentals**
 
-### 🔹 Desenvolvimento
-- Pequena ferramenta em C que lê e analisa ficheiros de configuração
+### 🔹 Development
+- Tools-C v3:
+  - file integrity checker (hash)  
+  - log cleaner  
 
----
-
-# 📅 **SETEMBRO 2025 — Dominando Sockets**
-### 🔹 Desenvolvimento
-- Introdução a sockets em C  
-  - servidor TCP simples  
-  - cliente TCP  
-  - troca de mensagens  
-
-### 🔹 Redes
-- Mini-servidor de testes para aprender portas, ligações e TCP handshake
+### 🔹 Networking
+- ACL Mini Lab:
+  - creating and testing access lists  
+  - documenting allow/deny scenarios  
 
 ---
 
-# 📅 **OUTUBRO 2025 — Automação e Redes**
-### 🔹 Redes
-- Scripts Python para:  
-  - gerar endereços  
-  - calcular sub-redes  
-  - automatizar configuração Cisco via template  
+# 📅 **AUGUST 2025 — Intermediate Networking Project**
 
-### 🔹 Desenvolvimento
-- C-Projects v2:  
-  - ferramenta modular com subcomandos (ex: app –add, app –list)
+### 🔹 Networking
+- Full Routing + Switching Topology:
+  - VLANs, OSPF, DHCP, NAT  
+  - troubleshooting documentation  
 
----
-
-# 📅 **NOVEMBRO 2025 — Pré-Portfólio**
-### 🔹 Desenvolvimento
-- Preparação de 2 projetos maiores:  
-  - sistema de gestão (produtos / alunos / etc.)  
-  - ferramenta de linha de comando com menus avançados  
-
-### 🔹 Redes
-- Documentação consolidada dos melhores laboratórios do ano
+### 🔹 Development
+- Small C utility to read and analyze configuration files  
 
 ---
 
-# 📅 **DEZEMBRO 2025 — Portfólio Final**
-### 🔹 Desenvolvimento
-- Revisão geral do GitHub  
-- README’s profissionais  
-- Organizar pastas e commits  
-- Criar “My Dev Journey – 2025 Recap”
+# 📅 **SEPTEMBER 2025 — Mastering Sockets**
 
-### 🔹 Redes
-- Criar “Network Portfolio 2025”  
-- Upload das topologias finais  
-- Descrever o caminho feito durante o ano
+### 🔹 Development
+- Introduction to C sockets:
+  - simple TCP server  
+  - TCP client  
+  - message exchange  
+
+### 🔹 Networking
+- Mini test server to understand ports, connections, and TCP handshake  
 
 ---
 
-# 🚀 Habilidades Principais
+# 📅 **OCTOBER 2025 — Automation & Networking**
 
-### 💻 Desenvolvimento
-- Linguagem C  
-- Algoritmos e Estruturas de Dados  
-- Aplicações CLI  
-- Sockets e programação de baixo nível  
-- Gestão de memória  
-- Criação de ferramentas práticas  
+### 🔹 Networking
+- Python scripts for:
+  - address generation  
+  - subnet calculation  
+  - template-based Cisco configuration automation  
 
-### 🌐 Redes
+### 🔹 Development
+- C-Projects v2:
+  - modular command-line tool with subcommands (e.g., `app --add`, `app --list`)  
+
+---
+
+# 📅 **NOVEMBER 2025 — Pre-Portfolio Build**
+
+### 🔹 Development
+- Preparation of 2 major projects:
+  - management system (products / students / etc.)  
+  - advanced menu-based command-line tool  
+
+### 🔹 Networking
+- Consolidated documentation of the year’s best labs  
+
+---
+
+# 📅 **DECEMBER 2025 — Final Portfolio**
+
+### 🔹 Development
+- Full GitHub cleanup  
+- Professional READMEs  
+- Organizing folders, commits, and releases  
+- Creating “My Dev Journey – 2025 Recap”
+
+### 🔹 Networking
+- Creating “Network Portfolio 2025”  
+- Uploading final topologies  
+- Describing the full year’s learning path  
+
+---
+
+# 🚀 Core Skills
+
+### 💻 Development
+- C programming  
+- Algorithms & Data Structures  
+- CLI applications  
+- Low-level and socket programming  
+- Memory management  
+- Practical tool building  
+
+### 🌐 Networking
 - Subnetting  
 - VLANs  
 - Routing (OSPF)  
 - DHCP, NAT  
 - Packet Tracer / GNS3  
-- Topologias práticas  
-- Scripts simples para automação  
+- Practical topologies  
+- Basic automation scripts  
 
-### 🛠️ Ferramentas & Ambientes
+### 🛠️ Tools & Environments
 - Linux (Ubuntu / Debian)  
 - GCC / Makefile  
 - VS Code  
@@ -203,19 +216,18 @@ Cada mês tem objetivos claros e projetos que vão mostrando evolução.
 
 ---
 
-# 🎯 Objetivo do Ano
-Criar um **portfólio forte e completo**, mostrando evolução constante em:
-- Programação  
-- Redes  
-- Documentação técnica  
-- Resolução de problemas  
-- Criação de ferramentas úteis  
+# 🎯 Year Objective
+Build a **strong and complete portfolio**, showing consistent growth in:
+- Programming  
+- Networking  
+- Technical documentation  
+- Problem-solving  
+- Real tool development  
 
-> 2025 será o ano da minha construção como desenvolvedor e futuro engenheiro.
+> 2025 will be the year I build myself as a developer and future engineer.
 
 ---
 
-# 📬 Contacto
+# 📬 Contact
 Email: ekctiandrog@gmail.com  
 LinkedIn: www.linkedin.com/in/ekctiandrogoncalo
-
